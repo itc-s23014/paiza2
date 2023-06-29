@@ -6,3 +6,4 @@
 
 #恋するハッカソン
 - [ショートカット](./paiza2/shortcat.py)
+- [ポニーテイル](./paiza2/ponytail.py)
