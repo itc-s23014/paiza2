@@ -1,4 +1,4 @@
-# paiza2
+#paiza2
 
 ## Cooding Girl
 
@@ -6,4 +6,4 @@
 
 #恋するハッカソン
 - [ショートカット](./paiza2/shortcat.py)
-- [ポニーテイル](./paiza2/longhear.py)
+- [ ロングヘアー](./paiza2/longhear.py)
