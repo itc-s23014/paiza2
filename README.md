@@ -7,11 +7,11 @@
 
 #恋するハッカソン
  
- - [ショートカット](./paiza2/shortcat.py)
- - [ ロングヘアー](./paiza2/longhear.py)
- - [ポニーテイル](./paiza2/ponytail.py)
+- [ショートカット](./hackthon/shortcat.py)
+- [ ロングヘアー](./hackthon/longhear.py)
+- [ポニーテイル](./hackthon/ponytail.py)
 
 
 #プログラミングで彼女を作る
 
- - [つり目](./paiza2/turime.py)
+- [つり目](./paiza2/turime.py)
