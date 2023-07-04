@@ -23,4 +23,17 @@
 
 #プログラミングで彼女を作る
 
-- [つり目](./paiza2/turime.py)
+- [つり目](./girl/turime.py)
+- [眼帯](./girl/gantai.py)
+- [猫耳](./girl/nekomimi.py)
+- [ショートヘア](./girl/short.py)
+- [ロングヘア](./girl/longhear.py)
+- [ポニーテイル](./girl/ponytail.py)
+- [ツインテール](./girl/twintail.py)
+- [セーラー服](./girl/se-ra-huku.py)
+- [カーディガン](./girl/cardigan.py)
+
+
+
+
+
