@@ -16,7 +16,11 @@
 - [つりめ](./hackthon/turime.py)
 - [メガネ](./hackthon/megane.py)
 - [cute衣装](./hackthon/cutecostume.py)
-- [sexy衣装](./hackthon/sexycostume.py)
+- [sexy衣装](./hackthon/sexy.py)
+
+
+
+
 #プログラミングで彼女を作る
 
 - [つり目](./paiza2/turime.py)
