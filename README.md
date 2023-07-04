@@ -18,9 +18,6 @@
 - [cute衣装](./hackthon/cutecostume.py)
 - [sexy衣装](./hackthon/sexy.py)
 
-
-
-
 #プログラミングで彼女を作る
 
 - [つり目](./girl/turime.py)
